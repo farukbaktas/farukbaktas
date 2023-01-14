@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/farukbaktas" target="blank"><img src="https://img.shields.io/twitter/follow/farukbaktas?logo=twitter&style=for-the-badge" alt="farukbaktas" /></a> </p>
 
-- 🤘 I’m currently working on [Punky](Punky.app)
+- 🤘 I’m currently working on [Punky](https://Punky.app)
 
 - 🌱 I’m currently learning **React, JS, Phyton**
 
-- 🌌 I am the Founder and CTO of Web3 Marketing Software Agency [Bilpengo](Bilpengo.io)
+- 🌌 I am the Founder and CTO of Web3 Marketing Software Agency [Bilpengo](https://Bilpengo.io)
 
-- 🧑‍🚀 My Portfolio Website 📄 Know about my experiences [Faruk Baktas](farukbaktas.com)
+- 🧑‍🚀 My Portfolio Website 📄 Know about my experiences [FarukBaktas.com](https://farukbaktas.com)
 
 - 📫 How to reach me **omerfarukbaktas@gmail.com**
 
