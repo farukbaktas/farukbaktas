@@ -5,9 +5,9 @@
 
 - 🤘 I’m currently working on [Punky](https://Punky.app)
 
-- 🌱 I’m currently learning **React, JS, Phyton**
-
 - 🌌 I am the Founder and CTO of Web3 Marketing Software Agency [Bilpengo](https://Bilpengo.io)
+
+- 🌱 I’m currently learning **React, JS, Phyton**
 
 - 🧑‍🚀 My Portfolio Website 📄 Know about my experiences [FarukBaktas.com](https://farukbaktas.com)
 
