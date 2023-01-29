@@ -7,7 +7,7 @@
 
 - 🌌 I am the Founder and CTO of Web3 Marketing Software Agency [Bilpengo](https://Bilpengo.io)
 
-- 🌱 I’m currently learning **React, JS, Phyton**
+- 🌱 I’m currently learning **React, Discord.js, JS, Phyton**
 
 - 🧑‍🚀 My Portfolio Website 📄 Know about my experiences [FarukBaktas.com](https://farukbaktas.com)
 
