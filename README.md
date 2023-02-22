@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Faruk</h1>
 <h3 align="center">My name is Faruk Baktaş and I am a second-year software engineering student at Haliç University. I have been working with the blockchain sector for two years and have developed my skills in this field significantly. I have learned a variety of programming languages and am proficient in languages such as Python, JavaScript, C, C++, Java, CSS, and HTML, as well as frameworks like React.js and Discord.js. In addition to my technical skills, I am also proficient in design tools like Figma, Photoshop, and Canva and have strong Excel and content writing abilities.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farukbaktas&label=Profile%20views&color=0e75b6&style=flat" alt="farukbaktas" /> </p>
-
 <p align="left"> <a href="https://twitter.com/farukbaktas" target="blank"><img src="https://img.shields.io/twitter/follow/farukbaktas?logo=twitter&style=for-the-badge" alt="farukbaktas" /></a> </p>
 
-- 🤘 I’m currently working on [Punky](Punky.app)
+- 🤘 I’m currently working on [Punky](https://Punky.app)
 
 - 🌱 I’m currently learning **React, JS, Phyton**
 
-- 🌌 I am the Founder and CTO of Web3 Marketing Software Agency [Bilpengo](Bilpengo.io)
+- 🌌 I am the Founder and CTO of Web3 Marketing Software Agency [Bilpengo](https://Bilpengo.io)
 
-- 🧑‍🚀 My Portfolio Website 📄 Know about my experiences [Faruk Baktas](farukbaktas.com)
+- 🧑‍🚀 My Portfolio Website 📄 Know about my experiences [Faruk Baktas](https://farukbaktas.com)
 
-- 📫 How to reach me **omerfarukbaktas@gmail.com**
+- 📫 How to reach me **YDalek.eth#0690(Discord) & @farukbaktas(TelegrYDalek.eth#0690(Discord)am) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
