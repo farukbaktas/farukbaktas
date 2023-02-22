@@ -11,7 +11,7 @@
 
 - 🧑‍🚀 My Portfolio Website 📄 Know about my experiences [Faruk Baktas](https://farukbaktas.com)
 
-- 📫 How to reach me **YDalek.eth#0690(Discord) & @farukbaktas(TelegrYDalek.eth#0690(Discord)am) **
+- 📫 How to reach me **YDalek.eth#0690(Discord) & @farukbaktas(Telegram)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
