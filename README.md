@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/farukbaktas" target="blank"><img src="https://img.shields.io/twitter/follow/farukbaktas?logo=twitter&style=for-the-badge" alt="farukbaktas" /></a> </p>
 
-- 🤘 I’m currently working on [Punky](https://Punky.app)
+- 🤘 I’m currently working on [PUNKY](https://Punky.app)
 
 - 🌱 I’m currently learning **React, JS, Phyton**
 
